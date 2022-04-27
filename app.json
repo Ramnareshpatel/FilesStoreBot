@@ -7,8 +7,8 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/SenuGamerBoy/FilesStoreBot",
-    "website": "https://github.com/SenuGamerBoy",
+    "repository": "https://github.com/Ramnareshpatel/FilesStoreBot",
+    "website": "https://github.com/Ramnareshpatel/FilesStoreBot",
     "success_url": "https://t.me/senuinfinity",
     "env": {
         "API_ID": {
